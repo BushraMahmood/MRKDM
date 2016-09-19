@@ -18,3 +18,9 @@ summary(cars)
 plot(pressure)
 ```
 
+
+```{r setup, include = FALSE, cache = FALSE}  
+knitr::opts_chunk$set(error = TRUE)  
+```
+
+
