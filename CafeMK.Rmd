@@ -2,7 +2,7 @@
 title: "Cafe MK"
 author: "BM"
 date: "September 19, 2016"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
